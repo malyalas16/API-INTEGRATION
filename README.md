@@ -22,5 +22,5 @@ The web page is designed to send requests to an API, handle the responses effect
 
 ##OUTPUT##
 
-<img width="1440" alt="Screenshot 2025-02-11 at 8 41 13 PM" src="https://github.com/user-attachments/assets/abc43b4e-4da7-4320-85f0-6ae6b84c28b4" />
-<img width="1440" alt="Screenshot 2025-02-11 at 8 41 48 PM" src="https://github.com/user-attachments/assets/9a59f781-764b-4d86-b8e3-d08746f74048" />
+<img width="1440" alt="Screenshot 2025-02-11 at 9 09 08 PM" src="https://github.com/user-attachments/assets/0928b8a4-6b8d-4a56-b2ff-41e8ed8bdae9" />
+<img width="1440" alt="Screenshot 2025-02-11 at 9 09 20 PM" src="https://github.com/user-attachments/assets/edf39129-2f5b-480c-bea8-ef3001719814" />
